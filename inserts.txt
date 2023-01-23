@@ -1,0 +1,21 @@
+INSERT INTO estudantes (nome, email, data_nascimento, mensalidade) VALUES ( 'Mariane', 'mariane@hotmail.com', '01-01-1996', 350.00);
+INSERT INTO estudantes (nome, email, data_nascimento, mensalidade) VALUES ( 'Rafaela', 'rafaela@hotmail.com', '01-04-1995', 250.00);
+INSERT INTO estudantes (nome, email, data_nascimento, mensalidade) VALUES ( 'Douglas', 'douglas@hotmail.com', '05-07-1993', 250.00);
+INSERT INTO estudantes (nome, email, data_nascimento, mensalidade) VALUES ( 'Mauricio', 'mauricio@hotmail.com', '01-10-1990', 300.00);
+
+INSERT INTO estudantes (nome, email, data_nascimento, mensalidade) VALUES ( 'Roberto', 'robertoo@gmail.com', '01-10-1989', 400.00);
+INSERT INTO estudantes (nome, email, data_nascimento, mensalidade) VALUES ( 'Helena', 'helena@gmail.com', '01-09-1992', 420.00);
+INSERT INTO estudantes (nome, email, data_nascimento, mensalidade) VALUES ( 'Isabela', 'isabel@gmail.com', '09-10-1988', 420.00);
+
+
+
+
+================================================================
+
+
+INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 1, '11998101123', 1);
+INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 2, '11998333323', 1);
+INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 3, '11998444423', 1);
+INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 4, '14998107773', 2);
+INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 5, '19998105555', 3);
+INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 6, '19998100000', 3);
