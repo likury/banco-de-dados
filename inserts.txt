@@ -19,3 +19,15 @@ INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 3, '11998444423', 1);
 INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 4, '14998107773', 2);
 INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 5, '19998105555', 3);
 INSERT INTO telefone (id, telefone, estudante_id) VALUES ( 6, '19998100000', 3);
+
+
+
+
+============================================================
+
+INSERT INTO clientes (id, nome, idade, cpf) VALUES (1, ‘Robson’, 40,’M’, ‘12312312312’);
+INSERT INTO clientes ( nome, idade, cpf) VALUES ( ‘Denise’, 35,’F’, ‘18989888812’);
+INSERT INTO clientes ( nome, idade, cpf) VALUES ( ‘Madalena’, 55,’F’, ‘34534534545’’);
+INSERT INTO clientes ( nome, idade, cpf) VALUES ( ‘Jorge’, 60, ’M’, ‘89089089090’);
+INSERT INTO clientes ( nome, idade, cpf) VALUES ( ‘Ana’, 18, ‘F’,‘90909009090’);
+INSERT INTO clientes ( nome, idade, cpf) VALUES ( ‘Bruna’, 26, ‘F’,‘78568945239’);
