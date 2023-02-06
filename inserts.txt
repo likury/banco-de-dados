@@ -58,3 +58,41 @@ INSERT INTO funcionario (nome, email, sexo, data_nascimento, salario, departamen
 ('Maria', 'maria@gmail.com', 'F', '07-07-1995', 4100, 3),
 ('Penha', 'penha@gmail.com', 'F', '07-07-1988', 5000, 5),
 ('Laura', 'laura@gmail.com', 'F', '07-07-1990', 5500, 5);
+
+
+=============================================================
+
+
+insert into categorias (nome, ativa) Values
+('Informatica','[v]'),
+('Telefonia','[v]'),
+('Games','[v]'),
+('TV, Audio e Video','[v]'),
+('Impressão e imagem','[v]');
+
+
+insert into produtos (id_categoria, descricao, preco) values
+(1,'SSD 128GB', 300),
+(1,'SSD 256GB', 500),
+(1,'KIT TECLADO E MOUSE', 600),
+(3,'PLAYSTATION 3', 1500),
+(2,'SAMSUNG A51', 2500),
+(4,'TELEVISÃO LG 55"', 3000),
+(3,'PLAYSTATION 3 1TB', 1500),
+(2,'SAMSUNG S9', 2500),
+(2,'IPHONE 8', 2500),
+(2,'IPHONE 9', 3000),
+(2,'IPHONE X', 4000),
+(4,'TELEVISÃO SAMSUNG 32"', 1000),
+(4,'TELEVISÃO SAMSUNG 48"', 3000),
+(3,'PLAYSTATION 4 1TB', 2800),
+(3,'PLAYSTATION 5 1TB', 5000),
+(1,'Teclado Razer Gamer', 250),
+(1,'Fone de ouvido Hyperx',170),
+(1,'Mouse Gamer Razer', 90),
+(1,'Mouse Gamer Razer 2400', 200)
+insert into produtos (descricao, preco) values
+('Mouse Gamer', 280),
+('Teclado Gamer', 390);
+
+
