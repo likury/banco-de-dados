@@ -16,6 +16,8 @@ O mesmo ocorreu.
 14.  Enfermeiras têm nome.
 15.  O nome de um plano de saúde é único*/
 
-Entrega:
+/*Entrega:
 A entrega deve ser feita por meio de um link de um repositório público e 
 encaminhado para o meu email. O assunto do email deve ser [952 - MODELAGEM][NOME1-NOME2]
+
+Data de entrega: 17/02 - Sexta-Feira*/
